@@ -1,0 +1,4 @@
+#Sun Nov 14 15:08:56 EAT 2021
+base.0=/media/andy250/ntwali250/flutterProject/testing/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
